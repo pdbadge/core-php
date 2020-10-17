@@ -10,4 +10,6 @@ echo "updated";
 
 
 echo "another code";
+
+echo "line 3";
 ?>
